@@ -4,4 +4,4 @@ openai-whisper
 numba
 numpy
 tqdm
-jiwer
+pillow
